@@ -1,6 +1,17 @@
 <h1>Hii 👋 I'm Sahariar Kabir</h1>
-# 💫 About Me:
-I'm Currently Learning MERN Stack<br>I'm Currently Working on Android App Development<br>
+I am a **Software Developer & Security Enthusiast** specializing in Native Android Development while mastering the full-stack ecosystem. My ultimate goal is to bridge the gap between building high-performance applications and securing them.
+
+* 📱 **Android Developer:** Crafting robust mobile experiences with Java and Android Studio.
+* 🌐 **Full-Stack Explorer:** Currently mastering the **MERN Stack** to understand end-to-end web architecture before diving deep into Backend systems.
+* 🛡️ **Cybersecurity Aspirant:** Actively engaging in **CTF challenges** and researching modern attack vectors (SSTI, Adversarial Attacks) to transition into professional security research.
+* 🌊 **Open Source:** Creator of **[FluviUI](https://www.npmjs.com/package/fluvi-ui)** — a specialized layout engine for React.
+
+---
+
+### 🛡️ Security & Dev Toolkit
+- 💻 **Dev:** React, Node.js, Express, Android Studio (Java)
+- 🔒 **Sec:** Burp Suite, CTF Troubleshooting, Malware Detection Research
+- 🛠️ **Tools:** Git, Vite, Tailwind CSS v4.0, Google Colab
 
 
 ## 🌐 Socials:
@@ -24,12 +35,16 @@ I'm Currently Learning MERN Stack<br>I'm Currently Working on Android App Develo
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
+# 🛠️ Top Languages
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kabir31416&layout=compact&theme=radical)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kabir31416&theme=dark&hide_border=false&include_all_commits=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kabir31416&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kabir31416&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kabir31416&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=kabir31416.kabir31416)
 
 
