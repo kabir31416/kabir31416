@@ -1,50 +1,74 @@
-<h1>Hii 👋 I'm Sahariar Kabir</h1>
-I am a **Software Developer & Security Enthusiast** specializing in Native Android Development while mastering the full-stack ecosystem. My ultimate goal is to bridge the gap between building high-performance applications and securing them.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body style="font-family: Arial, sans-serif; line-height:1.6; color:#222; max-width:900px; margin:0 auto; padding:20px; background:#f5f5f5;">
 
-* 📱 **Android Developer:** Crafting robust mobile experiences with Java and Android Studio.
-* 🌐 **Full-Stack Explorer:** Currently mastering the **MERN Stack** to understand end-to-end web architecture before diving deep into Backend systems.
-* 🛡️ **Cybersecurity Aspirant:** Actively engaging in **CTF challenges** and researching modern attack vectors (SSTI, Adversarial Attacks) to transition into professional security research.
-* 🌊 **Open Source:** Creator of **[FluviUI](https://www.npmjs.com/package/fluvi-ui)** — a specialized layout engine for React.
+![GitHub banner](https://i.ibb.co/ccMfV9S2/mygitban.png)
+  <p>I am a <strong>Software Developer & Security Enthusiast</strong> specializing in Native Android Development while mastering the full-stack ecosystem. My ultimate goal is to bridge the gap between building high-performance applications and securing them.</p>
 
----
+  <ul>
+    <li>📱 <strong>Android Developer:</strong> Crafting robust mobile experiences with Java and Android Studio.</li>
+    <li>🌐 <strong>Full-Stack Explorer:</strong> Currently mastering the <strong>MERN Stack</strong> to understand end-to-end web architecture before diving deep into Backend systems.</li>
+    <li>🛡️ <strong>Cybersecurity Aspirant:</strong> Actively engaging in <strong>CTF challenges</strong> and researching modern attack vectors (SSTI, Adversarial Attacks) to transition into professional security research.</li>
+    <li>🌊 <strong>Open Source:</strong> Creator of <strong><a href="https://www.npmjs.com/package/fluvi-ui" target="_blank">FluviUI</a></strong> — a specialized layout engine for React.</li>
+  </ul>
 
-### 🛡️ Security & Dev Toolkit
-- 💻 **Dev:** React, Node.js, Express, Android Studio (Java)
-- 🔒 **Sec:** Burp Suite, CTF Troubleshooting, Malware Detection Research
-- 🛠️ **Tools:** Git, Vite, Tailwind CSS v4.0, Google Colab
+  <hr/>
+
+  <h3>🛡️ Security & Dev Toolkit</h3>
+  <ul>
+    <li>💻 <strong>Dev:</strong> React, Node.js, Express, Android Studio (Java)</li>
+    <li>🔒 <strong>Sec:</strong> Burp Suite, CTF Troubleshooting, Malware Detection Research</li>
+    <li>🛠️ <strong>Tools:</strong> Git, Vite, Tailwind CSS v4.0, Google Colab</li>
+  </ul>
+
+<h3>🌐 Socials:</h3>
+<p align="left" style="text-decoration: none">
+<a href="https://www.facebook.com/kabir31416/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Sahariar Kabir" height="30" width="40" /></a>
+<a href="https://x.com/kabir31416/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sahariar Kabir" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kabir31416/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sahariar Kabir" height="30" width="40" /></a>
+<a href="https://codepen.io/kabir31416/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Sahariar Kabir" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/kabir31416/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Sahariar Kabir" height="30" width="40" /></a>
+<a href="https://instagram.com/kabir31416/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sahariar Kabir" height="30" width="40" /></a>
+</p>
+  <br/>
+
+<h2 align="left">💻 Languages and Tools:</h2>
+<p align="left" style="text-decoration: none"> 
+<a href="https://www.w3.org/html/" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://getbootstrap.com/" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+<a href="https://www.mongodb.com/" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+<a href="https://nodejs.org/" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://www.python.org/" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://reactjs.org/" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+<a href="https://firebase.google.com/" target="blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://heroku.com/" target="blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
+<a href="https://www.adobe.com/in/products/illustrator.html" target="blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
+<a href="https://www.photoshop.com/en/" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
+</p>
+  <br/>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kabir31416/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kabir31416/) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19460955/) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@kabir31416) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/kabir31416/) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kabir31416/)
+  <h2>📊 GitHub Stats:</h2>
+  <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kabir31416&theme=dark&hide_border=false" style="width:80%;" alt="GitHub Streak">
+  </div>
+  <br/>
+<h2>📊 Contribution Graph:</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kabir31416&custom_title=🔥%20Contribution%20Activity%20Graph&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=C9D1D9&area_color=00D9FF&area=true&theme=react-dark" alt="Contribution Graph" width="98%"
+  />
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  <br/>
 
-# 🛠️ Top Languages
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kabir31416&layout=compact&theme=radical)
+  <h2>👀 Visitors:</h2>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kabir31416.kabir31416" alt="Visitors">
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kabir31416&theme=dark&hide_border=false&include_all_commits=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kabir31416&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kabir31416&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=kabir31416.kabir31416)
-
-
+</body>
+</html>
