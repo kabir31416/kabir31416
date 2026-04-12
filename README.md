@@ -10,12 +10,21 @@
   <p>I am a <strong>Software Developer & Security Enthusiast</strong> specializing in Native Android Development while mastering the full-stack ecosystem. My ultimate goal is to bridge the gap between building high-performance applications and securing them.</p>
 
   <ul>
-    <li>📱 <strong>Android Developer:</strong> Crafting robust mobile experiences with Java and Android Studio.</li>
-    <li>🌐 <strong>Full-Stack Explorer:</strong> Currently mastering the <strong>MERN Stack</strong> to understand end-to-end web architecture before diving deep into Backend systems.</li>
-    <li>🛡️ <strong>Cybersecurity Aspirant:</strong> Actively engaging in <strong>CTF challenges</strong> and researching modern attack vectors (SSTI, Adversarial Attacks) to transition into professional security research.</li>
-    <li>🌊 <strong>Open Source:</strong> Creator of <strong><a href="https://www.npmjs.com/package/fluvi-ui" target="_blank">FluviUI</a></strong> — a specialized layout engine for React.</li>
-  </ul>
-
+  <li>
+    📱 <strong>Android Developer:</strong> Crafting robust mobile experiences with Java and Android Studio.
+  </li>
+  <li>
+    🌐 <strong>Full-Stack Explorer:</strong> Currently mastering the <strong>MERN Stack</strong> to understand end-to-end web architecture before diving deep into Backend systems.
+  </li>
+  <li>
+    🛡️ <strong>Cybersecurity Aspirant:</strong> Actively engaging in <strong>CTF challenges</strong> and researching modern attack vectors (SSTI, Adversarial Attacks) to transition into professional security research.
+  </li>
+  <li>
+    🌊 <strong>Open Source:</strong> Creator of <strong>
+      <a href="https://www.npmjs.com/package/fluvi-ui" target="_blank">FluviUI</a>
+    </strong> — a specialized layout engine for React, and also building <strong>Flora UI</strong> — a modern open-source React + Tailwind CSS component library inspired by DaisyUI.
+  </li>
+</ul>
   <hr/>
 
   <h3>🛡️ Security & Dev Toolkit</h3>
