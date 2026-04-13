@@ -32,24 +32,24 @@
   <table>
     <tr>
       <td width="50%" align="center">
-        <h3>⚡ FluviUI</h3>
+        <h3><img src="https://unpkg.com/lucide-static@latest/icons/zap.svg" width="16" /> FluviUI</h3>
         <p>A specialized layout engine for React, designed to create flexible, scalable, and dynamic UI structures with ease.</p>
         <br>
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/Layout%20Engine-000000?style=for-the-badge&logo=vercel&logoColor=white" />
         <img src="https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white" />
         <br><br>
-        🔗 <a href="https://github.com/kabir31416/FluviUI">Repo</a> • 🌐 <a href="#">Live Demo</a>
+        <img src="https://unpkg.com/lucide-static@latest/icons/app-window.svg" width="14" style="vertical-align:middle;margin-right:6px;" /> <a href="https://github.com/kabir31416/">Repo</a> • <img src="https://unpkg.com/lucide-static@latest/icons/globe.svg" width="14" style="vertical-align:middle;margin-right:6px;" /> <a href="https://www.npmjs.com/package/fluvi-ui">Live Link</a>
       </td>
       <td width="50%" align="center">
-        <h3>🌸 Flora UI</h3>
+        <h3><img src="https://unpkg.com/lucide-static@latest/icons/leaf.svg" width="16" /> Flora UI</h3>
         <p>A modern open-source React + Tailwind CSS component library focused on clean design, reusability, and developer experience.</p>
         <br>
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
         <img src="https://img.shields.io/badge/Component%20Library-0EA5E9?style=for-the-badge&logo=storybook&logoColor=white" />
         <br><br>
-        🔗 <a href="https://github.com/kabir31416/Flora-UI">Repo</a> • 🌐 <a href="#">Live Demo</a>
+        <img src="https://unpkg.com/lucide-static@latest/icons/app-window.svg" width="14" style="vertical-align:middle;margin-right:6px;" /> <a href="https://github.com/kabir31416/">Repo</a> • <img src="https://unpkg.com/lucide-static@latest/icons/globe.svg" width="14" style="vertical-align:middle;margin-right:6px;" /> <a href="https://floraui.atherin.cc/">Live Link</a>
       </td>
     </tr>
   </table>
