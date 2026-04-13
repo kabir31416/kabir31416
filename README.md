@@ -27,12 +27,49 @@
 </ul>
   <hr/>
 
-  <h3>🛡️ Security & Dev Toolkit</h3>
-  <ul>
-    <li>💻 <strong>Dev:</strong> React, Node.js, Express, Android Studio (Java)</li>
-    <li>🔒 <strong>Sec:</strong> Burp Suite, CTF Troubleshooting, Malware Detection Research</li>
-    <li>🛠️ <strong>Tools:</strong> Git, Vite, Tailwind CSS v4.0, Google Colab</li>
-  </ul>
+<h3>🚀 Featured Projects</h3>
+<p align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>⚡ FluviUI</h3>
+        <p>A specialized layout engine for React, designed to create flexible, scalable, and dynamic UI structures with ease.</p>
+        <br>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Layout%20Engine-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white" />
+        <br><br>
+        🔗 <a href="https://github.com/kabir31416/FluviUI">Repo</a> • 🌐 <a href="#">Live Demo</a>
+      </td>
+      <td width="50%" align="center">
+        <h3>🌸 Flora UI</h3>
+        <p>A modern open-source React + Tailwind CSS component library focused on clean design, reusability, and developer experience.</p>
+        <br>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/Component%20Library-0EA5E9?style=for-the-badge&logo=storybook&logoColor=white" />
+        <br><br>
+        🔗 <a href="https://github.com/kabir31416/Flora-UI">Repo</a> • 🌐 <a href="#">Live Demo</a>
+      </td>
+    </tr>
+  </table>
+</p>
+
+
+<h3>🚀 Technical Skills  </h3>
+<h4>🎨 Frontend </h4> 
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+</p>
+<h4>⚙️ Backend </h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+<h4>🛠 Tools & Workflow  </h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
 
 <h3>🌐 Socials:</h3>
 <p align="left" style="text-decoration: none">
@@ -44,24 +81,6 @@
 <a href="https://instagram.com/kabir31416/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sahariar Kabir" height="30" width="40" /></a>
 </p>
   <br/>
-
-<h2 align="left">💻 Languages and Tools:</h2>
-<p align="left" style="text-decoration: none"> 
-<a href="https://www.w3.org/html/" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com/" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://nodejs.org/" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.python.org/" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://heroku.com/" target="blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en/" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-</p>
-  <br/>
-
 
   <h2>📊 GitHub Stats:</h2>
   <div align="center">
