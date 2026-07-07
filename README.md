@@ -36,29 +36,49 @@
   <table>
     <tr>
       <td width="50%" align="center">
-        <h3><img src="https://unpkg.com/lucide-static@latest/icons/zap.svg" width="16" /> ArtHub</h3>
-        <p>ArtHub is a modern digital artwork marketplace where artists can upload and sell their artwork, and users can discover and purchase digital art through a clean and responsive interface.</p>
-        <br>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Layout%20Engine-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-        <img src="https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white" />
-        <br><br>
-        <img src="https://unpkg.com/lucide-static@latest/icons/app-window.svg" width="14" style="vertical-align:middle;margin-right:6px;" /> <a href="https://github.com/kabir31416/ArtHub">Repo</a> • <img src="https://unpkg.com/lucide-static@latest/icons/globe.svg" width="14" style="vertical-align:middle;margin-right:6px;" /> <a href="https://art-hub-369.vercel.app/">Live Link</a>
-      </td>
-      <td width="50%" align="center">
-        <h3><img src="https://unpkg.com/lucide-static@latest/icons/leaf.svg" width="16" /> IdeaVault</h3>
-        <p>A full-stack web application where users can create, explore, and interact with startup ideas. Built using Next.js, Node.js, Express, and MongoDB.</p>
-        <br>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-        <img src="https://img.shields.io/badge/Component%20Library-0EA5E9?style=for-the-badge&logo=storybook&logoColor=white" />
-        <br><br>
-        <img src="https://unpkg.com/lucide-static@latest/icons/app-window.svg" width="14" style="vertical-align:middle;margin-right:6px;" /> <a href="https://github.com/kabir31416/ph-assignment-nine">Repo</a> • <img src="https://unpkg.com/lucide-static@latest/icons/globe.svg" width="14" style="vertical-align:middle;margin-right:6px;" /> <a href="https://ph-assignment-nine.vercel.app/">Live Link</a>
-      </td>
-    </tr>
-  </table>
+        <h3>🎨 ArtHub</h3>
+
+<p>
+  A full-stack <strong>MERN Stack</strong> digital artwork marketplace where artists can upload, manage, and sell their artwork, while users can explore and purchase digital art through a modern, responsive interface.
 </p>
 
+<img src="https://cdn.simpleicons.org/mongodb/47A248" width="22" />
+  <img src="https://cdn.simpleicons.org/express/000000" width="22" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="22" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="22" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/38BDF8" width="22" />
+  <img src="https://cdn.simpleicons.org/vercel/000000" width="22" />
+
+<br>
+
+<img src="https://cdn.simpleicons.org/github/000000" width="15" /> <a href="https://github.com/kabir31416/ArtHub">Repository</a> • <img src="https://cdn.simpleicons.org/brave/FB542B" width="15" /> <a href="https://art-hub-369.vercel.app/">Live Demo</a>
+
+</td>
+
+<td width="50%" align="center">
+<h3>💡 IdeaVault</h3>
+
+<p>
+  A full-stack <strong>MERN Stack</strong> platform where users can create, discover, and interact with startup ideas featuring authentication, CRUD operations, and responsive UI.
+</p>
+
+<img src="https://cdn.simpleicons.org/mongodb/47A248" width="22" />
+  <img src="https://cdn.simpleicons.org/express/000000" width="22" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="22" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="22" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/38BDF8" width="22" />
+  <img src="https://cdn.simpleicons.org/vercel/000000" width="22" />
+
+
+<br>
+
+<img src="https://cdn.simpleicons.org/github/000000" width="15" /> <a href="https://github.com/kabir31416/ph-assignment-nine">Repository</a> • <img src="https://cdn.simpleicons.org/brave/FB542B" width="15" /> <a href="https://ph-assignment-nine.vercel.app/">Live Demo</a>
+
+</td>
+</tr>
+
+</table>
+</p>
 
 <h3>🚀 Technical Skills  </h3>
 <h4>🎨 Frontend </h4> 
