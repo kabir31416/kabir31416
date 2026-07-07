@@ -11,20 +11,24 @@
 
   <ul>
   <li>
-    📱 <strong>Android Developer:</strong> Crafting robust mobile experiences with Java and Android Studio.
+    📱 <strong>Android Developer:</strong> Building modern Android applications with <strong>Java</strong>, <strong>Firebase</strong>, and <strong>Android Studio</strong>, focusing on performance and user experience.
   </li>
+
   <li>
-    🌐 <strong>Full-Stack Explorer:</strong> Currently mastering the <strong>MERN Stack</strong> to understand end-to-end web architecture before diving deep into Backend systems.
+    🌐 <strong>Full-Stack Developer:</strong> Expanding my expertise with the <strong>MERN Stack</strong> to build scalable, production-ready web applications from frontend to backend.
   </li>
+
   <li>
-    🛡️ <strong>Cybersecurity Aspirant:</strong> Actively engaging in <strong>CTF challenges</strong> and researching modern attack vectors (SSTI, Adversarial Attacks) to transition into professional security research.
+    🛡️ <strong>Cybersecurity Enthusiast:</strong> Exploring <strong>CTF challenges</strong>, web application security, and modern attack techniques while working toward a career in cybersecurity research.
   </li>
+
   <li>
-    🌊 <strong>Open Source:</strong> Creator of <strong>
-      <a href="https://www.npmjs.com/package/fluvi-ui" target="_blank">FluviUI</a>
-    </strong> — a specialized layout engine for React, and also building <strong>Flora UI</strong> — a modern open-source React + Tailwind CSS component library inspired by DaisyUI.
+    🚀 <strong>Open Source Contributor:</strong> Building developer-focused tools including
+    <strong><a href="https://www.npmjs.com/package/fluvi-ui" target="_blank">FluviUI</a></strong>,
+    a lightweight React layout engine, and <strong>Flora UI</strong>, a modern open-source React + Tailwind CSS component library.
   </li>
 </ul>
+
   <hr/>
 
 <h3>🚀 Featured Projects</h3>
@@ -32,24 +36,24 @@
   <table>
     <tr>
       <td width="50%" align="center">
-        <h3><img src="https://unpkg.com/lucide-static@latest/icons/zap.svg" width="16" /> FluviUI</h3>
-        <p>A specialized layout engine for React, designed to create flexible, scalable, and dynamic UI structures with ease.</p>
+        <h3><img src="https://unpkg.com/lucide-static@latest/icons/zap.svg" width="16" /> ArtHub</h3>
+        <p>ArtHub is a modern digital artwork marketplace where artists can upload and sell their artwork, and users can discover and purchase digital art through a clean and responsive interface.</p>
         <br>
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/Layout%20Engine-000000?style=for-the-badge&logo=vercel&logoColor=white" />
         <img src="https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white" />
         <br><br>
-        <img src="https://unpkg.com/lucide-static@latest/icons/app-window.svg" width="14" style="vertical-align:middle;margin-right:6px;" /> <a href="https://github.com/kabir31416/">Repo</a> • <img src="https://unpkg.com/lucide-static@latest/icons/globe.svg" width="14" style="vertical-align:middle;margin-right:6px;" /> <a href="https://www.npmjs.com/package/fluvi-ui">Live Link</a>
+        <img src="https://unpkg.com/lucide-static@latest/icons/app-window.svg" width="14" style="vertical-align:middle;margin-right:6px;" /> <a href="https://github.com/kabir31416/ArtHub">Repo</a> • <img src="https://unpkg.com/lucide-static@latest/icons/globe.svg" width="14" style="vertical-align:middle;margin-right:6px;" /> <a href="https://art-hub-369.vercel.app/">Live Link</a>
       </td>
       <td width="50%" align="center">
-        <h3><img src="https://unpkg.com/lucide-static@latest/icons/leaf.svg" width="16" /> Flora UI</h3>
-        <p>A modern open-source React + Tailwind CSS component library focused on clean design, reusability, and developer experience.</p>
+        <h3><img src="https://unpkg.com/lucide-static@latest/icons/leaf.svg" width="16" /> IdeaVault</h3>
+        <p>A full-stack web application where users can create, explore, and interact with startup ideas. Built using Next.js, Node.js, Express, and MongoDB.</p>
         <br>
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
         <img src="https://img.shields.io/badge/Component%20Library-0EA5E9?style=for-the-badge&logo=storybook&logoColor=white" />
         <br><br>
-        <img src="https://unpkg.com/lucide-static@latest/icons/app-window.svg" width="14" style="vertical-align:middle;margin-right:6px;" /> <a href="https://github.com/kabir31416/">Repo</a> • <img src="https://unpkg.com/lucide-static@latest/icons/globe.svg" width="14" style="vertical-align:middle;margin-right:6px;" /> <a href="https://floraui.atherin.cc/">Live Link</a>
+        <img src="https://unpkg.com/lucide-static@latest/icons/app-window.svg" width="14" style="vertical-align:middle;margin-right:6px;" /> <a href="https://github.com/kabir31416/ph-assignment-nine">Repo</a> • <img src="https://unpkg.com/lucide-static@latest/icons/globe.svg" width="14" style="vertical-align:middle;margin-right:6px;" /> <a href="https://ph-assignment-nine.vercel.app/">Live Link</a>
       </td>
     </tr>
   </table>
