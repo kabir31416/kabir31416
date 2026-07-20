@@ -83,19 +83,23 @@
 <h3>🚀 Technical Skills  </h3>
 <h4>🎨 Frontend </h4> 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
 </p>
 <h4>⚙️ Backend </h4>
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase" />
 </p>
 <h4>🛡️ Programming Language </h4>
 <p>
-  <img src="https://skillicons.dev/icons?i=py,bash,c,cpp,php" />
+  <img src="https://skillicons.dev/icons?i=py,bash,java,c,cpp,php" />
 </p>
 <h4>🛠 Tools & Workflow  </h4>
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,kali,linux,vscode,androidstudio,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,kali,linux,vscode,androidstudio,figma,ubuntu" />
+</p>
+<h4>🚀 Content Management Sustem </h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=wordpress," />
 </p>
 
 
