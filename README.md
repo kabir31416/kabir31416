@@ -15,7 +15,7 @@
   </li>
 
   <li>
-    🌐 <strong>Full-Stack Developer:</strong> Expanding my expertise with the <strong>MERN Stack</strong> to build scalable, production-ready web applications from frontend to backend.
+    🌐 <strong>Full-Stack Developer:</strong> Expanding my expertise with the <strong>MERN Stack</strong> to build scalable, production-ready web applications from frontend to backend. Also build website with WordPress.
   </li>
 
   <li>
